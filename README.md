@@ -1,2 +1,1 @@
-# chatNodeJs
-Example about chat in NodeJs
+Simple Chat NodeJS - Socket.io - Express
